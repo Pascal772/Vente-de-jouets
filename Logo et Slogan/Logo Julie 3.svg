@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="300mm"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Logo Julie 3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="300mm"
+     inkscape:zoom="0.46324355"
+     inkscape:cx="397.19927"
+     inkscape:cy="560.1805"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#daf7a6;stroke-width:0.264583"
+       id="rect846"
+       width="187.90962"
+       height="59.971153"
+       x="58.25769"
+       y="123.36923" />
+    <rect
+       style="fill:#daf7a6;stroke-width:0.264583"
+       id="rect848"
+       width="95.95385"
+       height="57.686539"
+       x="138.21922"
+       y="65.682693" />
+    <ellipse
+       style="fill:#daf7a6;stroke-width:0.264583"
+       id="path872"
+       cx="95.95385"
+       cy="195.04904"
+       rx="19.990383"
+       ry="19.704807" />
+    <ellipse
+       style="fill:#daf7a6;stroke-width:0.264583"
+       id="path872-1"
+       cx="213.61154"
+       cy="195.33461"
+       rx="19.990383"
+       ry="19.704807" />
+    <text
+       xml:space="preserve"
+       style="font-size:28.0032px;line-height:1.25;font-family:'Comforter Brush';-inkscape-font-specification:'Comforter Brush';font-variant-ligatures:none;stroke-width:0.5834;fill:#ff1493;fill-opacity:1"
+       x="190.17877"
+       y="82.716072"
+       id="text4960"
+       transform="scale(0.77502711,1.2902774)"><tspan
+         sodipodi:role="line"
+         id="tspan4958"
+         style="stroke-width:0.5834;fill:#ff1493;fill-opacity:1"
+         x="190.17877"
+         y="82.716072">JTOYS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:27.2902px;line-height:1.25;font-family:'Comforter Brush';-inkscape-font-specification:'Comforter Brush';font-variant-ligatures:none;stroke-width:0.568546;fill:#ff1493;fill-opacity:1"
+       x="82.729286"
+       y="149.90443"
+       id="text11102"
+       transform="scale(0.92376477,1.0825267)"><tspan
+         sodipodi:role="line"
+         id="tspan11100"
+         style="stroke-width:0.568546;fill:#ff1493;fill-opacity:1"
+         x="82.729286"
+         y="149.90443">Le Paradis du Jouet</tspan></text>
+    <path
+       style="fill:#ff1493;stroke:#000000;stroke-width:0.100782px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 34.840383,213.76867 235.315387,0.24853 0.57116,-0.16591 -2.28463,0.33148"
+       id="path15486" />
+  </g>
+</svg>
